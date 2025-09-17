@@ -72,10 +72,10 @@ tree odin_py
 
 # Currently the cleaning of the files is commented for the tests.
 
-cd /dev/shm/odin_py/in/
+cd /dev/shm/odin_py/out/
 rm -f *
 
-cd /dev/shm/odin_py/out/
+cd /dev/shm/odin_py/in/
 rm -f *
 
 ```
